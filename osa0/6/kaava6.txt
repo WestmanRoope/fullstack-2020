@@ -1,0 +1,8 @@
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+palvelin-->selain: {"message":"note created"}
+
+
+note over selain:
+Tiedon lähettämisen hoitaa aiemmin ladattu JS koodi
+joka myös piirtää notesit uudestaan ilman uudelleen latausta
+end note
